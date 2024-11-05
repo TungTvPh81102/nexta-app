@@ -1,0 +1,1 @@
+# _component khi có _ thì thành phần đó chỉ chứa riêng những component dùng trong đó
